@@ -1,5 +1,19 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div>test</div>
 </template>
+<script>
+export default {
+  name: "",
+  components: {},
+  data() {
+    return {
+      sampleData: "",
+    };
+  },
+  beforeCreate() {},
+  creted() {},
+  beforeMount() {},
+  mounted() {},
+  methods: {},
+};
+</script>
